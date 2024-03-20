@@ -11,7 +11,8 @@ The CNN model should moreover classify handwritten digits apart from those given
 It stands for Modified National Institute of Standards and Technology database. The dataset consists of a large collection of 28x28 pixel grayscale images of handwritten digits (0 through 9). It is widely used for training and testing various machine learning algorithms, particularly in the context of image classification tasks.
 ## Neural Network Model
 
-<img width="591" alt="image" src="https://github.com/Shavedha/mnist-classification/assets/93427376/848f1f79-ccc1-45c4-9c42-f67c789ec799">
+<img width="541" alt="image" src="https://github.com/Shavedha/mnist-classification/assets/93427376/5ed01578-11c2-4d16-901f-09a05e74f08a">
+
 
 ## DESIGN STEPS
 1. Import necessary libraries
